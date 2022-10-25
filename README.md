@@ -1,5 +1,5 @@
 # Helllo~👋，这里是冷弋白👻，欢迎你来到我的Github! 🚀
-## 没什么特别的东西😜，送你一个小小的链接吧✨：[TV](lengyibai.gitee.io/tv)
+## 没什么特别的东西😜，送你一个小小的链接吧✨：[TV](http://lengyibai.gitee.io/tv)
 
 ### 这是我在大二学完`Javascript`做的小东西😋
 
