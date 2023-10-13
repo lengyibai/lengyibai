@@ -1,6 +1,5 @@
-# Helllo~👋，这里是冷弋白👻，欢迎你来到我的Github! 🚀
-## 没什么特别的东西😜，送你一个小小的链接吧✨：[TV](http://lengyibai.gitee.io/tv)
+# 欢迎你来到我的 Github!
 
-### 这是我在大二学完`Javascript`做的小东西😋
+## 送你一个我在大二写的一个网页 ✨：[TV](http://lengyibai.gitee.io/tv)
 
-### 进去之后，点击右上角的`dance`开关🎬，再双击里面的头像试试看！😆
+### 进去之后，点击右上角的`dance`开关 ，再双击头像试试看！
