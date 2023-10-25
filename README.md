@@ -1,5 +1,1 @@
-# 欢迎你来到我的 Github!
-
-## 送你一个我在大二写的一个网页：http://lengyibai.gitee.io/tv
-
-### 进去之后，点击右上角的`dance`开关 ，再双击头像试试看！
+![IMG_20231026_000454_polarr](https://github.com/lengyibai/lengyibai/assets/74140255/06811885-ce80-4832-a860-d3f59a1e8ec2)
